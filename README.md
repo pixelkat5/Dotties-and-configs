@@ -8,4 +8,6 @@ style: Adwaita-dark
 
 theme: [Dracula theme](https://draculatheme.com/) or [here on xfce look](https://www.xfce-look.org/p/1687249)
 
-cursor theme [Polarnight curosors](https://www.pling.com/p/1615757/)
+cursor theme: [Polarnight curosors](https://www.pling.com/p/1615757/)
+
+wallpaper: [Nordic theme wallpaper](https://www.pling.com/p/2086140/)
